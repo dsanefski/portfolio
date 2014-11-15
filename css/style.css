@@ -1,0 +1,32 @@
+.head {
+color: #999;
+font-family: 'Abril Fatface', Georgia, serif;
+font-size: 5.5rem;
+line-height: 4.5rem;
+text-align: center;
+margin-top: 2rem;
+}
+
+
+.latoLight {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300
+}
+
+.latoNormal {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400
+}
+
+.latoBold {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700
+}
+
+.buffer {
+	margin-top: 2rem;
+}
+
+.miffer {
+	margin-top: -.7rem;
+}
